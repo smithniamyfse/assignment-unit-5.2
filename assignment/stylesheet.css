@@ -1,6 +1,7 @@
 body {
     background-image: url("record.png");
     background-repeat: repeat;
+    margin: 0;
 }
 
 .dbgltxt {
@@ -11,4 +12,5 @@ body {
 
 .lgreybg {
     background-color: lightgrey;
+    padding: 1em;
 }
