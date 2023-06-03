@@ -1,3 +1,8 @@
+body {
+    background-image: url("record.png");
+    background-repeat: repeat;
+}
+
 .dbgltxt {
     background-color: darkslategrey;
     color: aliceblue;
@@ -6,9 +11,4 @@
 
 .lgreybg {
     background-color: lightgrey;
-}
-
-body {
-    background-image: url("record.png");
-    background-repeat: repeat;
 }
