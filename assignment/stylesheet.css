@@ -4,13 +4,17 @@ body {
     margin: 0;
 }
 
-.dbgltxt {
+.dbgltxtcenter {
     background-color: darkslategrey;
     color: aliceblue;
     text-align: center;
 }
 
-.lgreybg {
+.lgreybg1em {
     background-color: lightgrey;
     padding: 1em;
+}
+
+.questions {
+    background-color: aliceblue;
 }
